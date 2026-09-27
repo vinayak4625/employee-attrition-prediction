@@ -111,6 +111,4 @@ python src/attrition_pipeline.py
 - The dataset can't capture everything that drives someone to quit (manager quality, external
   offers, personal circumstances).
 
-## License
 
-MIT — see [LICENSE](LICENSE).
